@@ -11,7 +11,7 @@
 
 # GraphQL Queries & Mutations
 
-These are the GraphQL queries and mutations for the YouTube course.
+These are the GraphQL queries and mutations for the Project Management App.
 
 ## Get names of all clients
 
